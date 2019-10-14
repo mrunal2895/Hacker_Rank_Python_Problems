@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
+
 
 
 #PROBLEM STATEMENT!!!
@@ -36,13 +36,9 @@ YZ
 '''
 
 
-# In[ ]:
-
 
 import textwrap
 
-
-# In[17]:
 
 
 #Solution fro Hacker Rank Problem
@@ -57,7 +53,7 @@ if __name__ == '__main__':
     print(result)
 
 
-# In[13]:
+
 
 
 #Practice code
@@ -66,7 +62,7 @@ textwrap.fill(s,4)
 print(textwrap.fill(s,4))
 
 
-# In[15]:
+
 
 
 #Practice code
@@ -77,14 +73,6 @@ for i in range(0,len(s)):
     else:
         print(s[i],end='')
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
